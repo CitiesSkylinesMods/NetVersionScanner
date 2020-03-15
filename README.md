@@ -7,4 +7,6 @@ MSDN: https://docs.microsoft.com/en-us/dotnet/api/system.runtime.versioning.targ
 
 Basic way to get it: https://stackoverflow.com/a/23961166/5240636
 
+EDIT: Will possibly need more convoluted way to get the info (eg. parsing a string) but already have some stuff for that.
+
 Need to get AutoRepair mod finished first (ETA 2 weeks).
